@@ -24,3 +24,8 @@ An education company named X Education sells online courses to industry professi
 - Leads Data Dictionary.xlsx : Data Dictionary
 - Summary.pdf : Summary on what's done in the entire py file
 
+## Contributors
+ - Vishwanath Rajasekaran
+ - Priya
+ - Prashanth
+
