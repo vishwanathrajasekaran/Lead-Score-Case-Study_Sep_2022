@@ -17,12 +17,11 @@ An education company named X Education sells online courses to industry professi
 - Precision- Recall
 
 ## Details of files given
-- Lead Score Case Study_Sep_2022_Vishwanath_v2.0: The python file showing coding and data analysis
+- Lead Score Case Study_Sep_2022_Final: The python file showing coding and data analysis
 - Subjective Questions_Vishwanath_Rajasekaran : Subjective Questions Answered
 - LEAD SCORE CASE STUDY_Vishwanath_Rajasekaran : Final Presentation
 - Leads.csv : Data worked on
-- Leads Data Dictionary.xlsx : Data Dictionary
-- Summary.pdf : Summary on what's done in the entire py file
+- Summary_Vishwanath_Rajasekaran: Summary on what's done in the entire py file
 
 ## Contributors
  - Vishwanath Rajasekaran
